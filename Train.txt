@@ -1,0 +1,4 @@
+Paris;2.0;1;1; 
+London;2.0;1;1; 
+New York;21.0;1;1; 
+Hollywood;21.0;1;1; 
